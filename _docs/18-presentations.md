@@ -11,4 +11,8 @@ toc: true
 
 ## Παρουσιάσεις σε εκπαίδευση
 
+Παράδειγμα ομιλίας από το slideshare
+
+<iframe src="https://www.slideshare.net/larsjuhljensen/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 ## Συνέδρια
