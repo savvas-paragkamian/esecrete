@@ -3,8 +3,6 @@ main:
     url: /archives/
   - title: "Δράσεις"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Δραστηριότητες"
     url: /tags/
   - title: "Ιστορία"
