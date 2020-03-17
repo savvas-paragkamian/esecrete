@@ -22,11 +22,11 @@ feature_row:
     url: "/docs/canyoning_approach/"
     btn_class: "btn--primary"
     btn_label: "Περισσότερα"
-- image_path: /assets/images/logo_esecrete.png
-    alt: "Εξορμήσεις"
-    title: "Εξορμήσεις"
-    excerpt: "Ημερολόγιο δράσεων μέσα στα χρόνια."
-    url: ""
+  - image_path: /assets/images/logo_esecrete.png
+    alt: "Φωτογραφίες"
+    title: "Φωτογραφίες"
+    excerpt: ""
+    url: "docs/photos/"
     btn_class: "btn--primary"
     btn_label: "Περισσότερα"      
 ---
