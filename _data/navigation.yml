@@ -7,3 +7,55 @@ main:
     url: /tags/
   - title: "Ιστορία"
     url: /history/
+
+docs:
+  - title: "Σπηλαιολογια"
+    children:
+      - title: "Προσέγγιση"
+        url: /docs/caving_approach/
+      - title: "Σεμινάρια"
+        url: /docs/caving_seminars/
+      - title: "Χαρτογραφήσεις"
+        url: /docs/caving_topo/
+      - title: "Φωτογραφίες"
+        url: /docs/caving_photos/
+  - title: "Canyoning"
+    children:
+      - title: "Προσέγγιση"
+        url: /docs/canyoning_approach/
+      - title: "Σεμινάρια"
+        url: /docs/canyoning_seminars/
+      - title: "Χαρτογραφήσεις"
+        url: /docs/canyoning_topo/
+      - title: "Φωτογραφίες"
+        url: /docs/canyoning_photos/
+  - title: "Υλικά"
+    children:
+      - title: "Εξοπλισμός"
+        url: /docs/equipment/
+      - title: "Βιβλιοθήκη"
+        url: /docs/library/
+      - title: "Συλλογές"
+        url: /docs/collections/
+      - title: "Γραφεία"
+        url: /docs/office/
+  - title: "Λειτουργία"
+    children:
+      - title: "Διοικητικά Συμβούλια"
+        url: /docs/ds/
+      - title: "Μέλη"
+        url: /docs/alumni/
+      - title: "Εσωτερικός κανονισμός"
+        url: /docs/internal_rules/
+      - title: "Καταστατικό"
+        url: /docs/general_rules/
+      - title: "Ενεργά μέλη"
+        url: /docs/active_members/
+  - title: "Πολυμέσα"
+    children:
+      - title: "Παρουσιάσεις"
+        url: /docs/presentations/
+      - title: "Φωτογραφίες"
+        url: /docs/photos/
+      - title: "Videos"
+        url: /docs/videos/
