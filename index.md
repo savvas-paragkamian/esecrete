@@ -21,6 +21,13 @@ feature_row:
     excerpt: "Από το 2006 ο σύλλογος δραστηριοποιείται έντονα στο χώρο του canyoning με νέες εξερευνήσεις, δημοσιεύσεις και καινοτοτόμες προσεγγίσεις στην εκπαίδευση."
     url: "/docs/canyoning_approach/"
     btn_class: "btn--primary"
+    btn_label: "Περισσότερα"
+- image_path: /assets/images/logo_esecrete.png
+    alt: "Εξορμήσεις"
+    title: "Εξορμήσεις"
+    excerpt: "Ημερολόγιο δράσεων μέσα στα χρόνια."
+    url: "/posts/"
+    btn_class: "btn--primary"
     btn_label: "Περισσότερα"      
 ---
 
