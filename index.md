@@ -26,7 +26,7 @@ feature_row:
     alt: "Εξορμήσεις"
     title: "Εξορμήσεις"
     excerpt: "Ημερολόγιο δράσεων μέσα στα χρόνια."
-    url: "/posts/"
+    url: ""
     btn_class: "btn--primary"
     btn_label: "Περισσότερα"      
 ---
