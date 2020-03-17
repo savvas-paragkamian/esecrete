@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ΕΣΕ Κρήτης
+title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-This website will host all the actions, history and people involved in the Department of Crete of the Hellenic Speleologiacal Society
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -75,12 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-facebook-f"
-      url: "https://www.facebook.com/groups/39880491764/"
-    - label: "email"
-      icon: "far fa-envelope"
-      url: "mailto:esecrete@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
