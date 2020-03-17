@@ -12,7 +12,7 @@ toc: true
 author_profile: false
 ---
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2012arvienergoume.jpg" alt="">{% endraw %}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2012arvienergoume.jpg" alt="" class="full">
 
 
 Η δράση «Άρβη: Ενεργούμε» διοργανώθηκε στις 15 & 16 Δεκεμβρίου από τους συλλόγους: Πεζοπορικός Όμιλος Αθηνών, Ε.Ο.Σ. Χανίων και Τμήμα Κρήτης της Ε.Σ.Ε.. 
