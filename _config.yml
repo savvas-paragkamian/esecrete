@@ -77,15 +77,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-facebook-f"
+      url: "https://www.facebook.com/groups/39880491764/"
+    - label: "email"
+      icon: "far fa-envelope"
+      url: "mailto:esecrete@gmail.com"
 
 defaults:
   # _posts
