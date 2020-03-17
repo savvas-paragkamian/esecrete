@@ -84,6 +84,13 @@ footer:
       url: "mailto:esecrete@gmail.com"
 
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
   # _posts
   - scope:
       path: ""
