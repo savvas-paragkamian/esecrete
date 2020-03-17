@@ -19,4 +19,8 @@ toc: true
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV4s_cTtoTPls5_ubRjiyypqWDN25weY86uTpgUzDD5aEIPXEVmFpvhMWN6Qf3IeagBC5MgKRKR73e/embed?start=false&loop=true&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+και google docs
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ0yl13VEfDCcx4-zodK1u825Ssjj2CZEiKCT0Tr5L_g-2matrBl-IZDPgEzJXUdRPcG7DH1Kv2D21r/pub?embedded=true"></iframe>
+
 ## Συνέδρια
