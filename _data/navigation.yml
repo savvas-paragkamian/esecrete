@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Αρχείο"
+    url: /archives/
+  - title: "Δράσεις"
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
+  - title: "Δραστηριότητες"
     url: /tags/
-  - title: "About"
-    url: /about/
   - title: "Ιστορία"
     url: /history/
